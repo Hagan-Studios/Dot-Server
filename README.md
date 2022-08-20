@@ -1,2 +1,2 @@
-# Dot-Server
+# Dot Server
 A simple HTTP server
